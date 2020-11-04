@@ -1,0 +1,15 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "My Gulp start project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilia Kirsanov",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2"
+  }
+}
