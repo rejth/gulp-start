@@ -19,7 +19,9 @@
     "gulp-notify": "^3.2.0",
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
     "imagemin-mozjpeg": "^9.0.0",
-    "imagemin-optipng": "^8.0.0"
+    "imagemin-optipng": "^8.0.0",
+    "vinyl-ftp": "^0.6.1"
   }
 }
